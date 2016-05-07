@@ -10,7 +10,7 @@
 
     <groupId>com.highfive.jenkins-highfive-theme</groupId>
     <artifactId>jenkins-highfive-theme</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <packaging>hpi</packaging>
 
     <name>Material Design Theme Plugin</name>
